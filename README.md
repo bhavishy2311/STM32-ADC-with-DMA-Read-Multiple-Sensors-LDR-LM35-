@@ -51,3 +51,7 @@ Watch the full project tutorial and demonstration on **Sly Fox Electronics YouTu
 ├── LCD16x2_Library/
 ├── .ioc (CubeMX config)
 ├── README.md
+
+
+📽️ YouTube Channel
+🔔 Subscribe to Sly Fox Electronics for more STM32 and electronics tutorials!
