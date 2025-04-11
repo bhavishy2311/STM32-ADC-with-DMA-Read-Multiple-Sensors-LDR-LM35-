@@ -41,6 +41,9 @@ Watch the full project tutorial and demonstration on **Sly Fox Electronics YouTu
 
 ---
 
+📽️ YouTube Channel
+🔔 Subscribe to Sly Fox Electronics for more STM32 and electronics tutorials!
+
 ## 📁 Folder Structure
 
 ```bash
@@ -53,5 +56,4 @@ Watch the full project tutorial and demonstration on **Sly Fox Electronics YouTu
 ├── README.md
 
 
-📽️ YouTube Channel
-🔔 Subscribe to Sly Fox Electronics for more STM32 and electronics tutorials!
+
